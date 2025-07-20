@@ -41,11 +41,11 @@ On a world map, locate Thailand. Can you name one major body of water that forms
 **Generated Image**:  
 Below is an informative image for Thailand in a **flat design style** (rotated for Coastal Regions Week), featuring the country’s name, continent, flag, and a short summary.
 
-![Thailand Info Image](https://assets.grok.com/users/bcc97441-9e68-44c2-9d7b-ca2ea9de03f9/generated/e2eb2cb3-a8b9-497b-8abb-821123370eec/image.jpg)  
+![Thailand Info Image](https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/1_thailand_20_07_2025.jpg)  
 *Image Description*: A clean, flat-design graphic with "Thailand" and "Asia" in bold text, the red-white-blue flag prominently displayed, and a summary: "Thailand, in Southeast Asia, boasts the stunning Andaman Sea coast, vibrant culture, and a history of independence, with Bangkok as its bustling capital." The design uses a minimalist layout with a red, white, and blue color scheme for readability and social media appeal.
 
 **Recap Image**:  
 Below is a recap image featuring Senegal, Mozambique, Namibia, Peru, Bangladesh, and Thailand, including their flags, continents, and a brief summary of the Coastal Regions theme.
 
-![Coastal Regions Recap Image](https://assets.grok.com/users/bcc97441-9e68-44c2-9d7b-ca2ea9de03f9/generated/a27b27ee-ccca-4caf-bdb9-c0ed028125bc/image.jpg)
+![Coastal Regions Recap Image](https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/2_thailand_20_07_2025.jpg)
 *Image Description*: A flat-design recap graphic showcasing the flags of Senegal, Mozambique, Namibia, Peru, Bangladesh, and Thailand, with their continents listed and a summary: "Coastal Regions Week explored diverse shores, from Senegal’s Senegal River to Thailand’s Andaman Sea, highlighting unique geographies and vibrant cultures." The layout is clean and visually engaging for educational sharing.
