@@ -1,4 +1,4 @@
-# Daily Geography Spotlight - July 20, 2025
+# Thailand Geography Spotlight - July 20, 2025
 
 **Motivational Quote**:  
 "Success is the sum of small efforts, repeated day in and day out." – Robert Collier
