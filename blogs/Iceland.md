@@ -25,5 +25,8 @@ On a world map, locate Iceland. Can you name the ocean that surrounds it? (Hint:
 **Generated Image**:  
 Below is an informative image for Iceland in a **textured flag style** (rotated for Island Nations Week), featuring the country’s name, continent, flag, and a short summary.
 
-![Iceland Info Image](attachment://iceland-info-image.jpg)  
+![Iceland Info Image]([attachment://iceland-info-image.jpg](https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/1_iceland_21_07_2025.jpg))  
 *Image Description*: A visually appealing graphic with a textured Icelandic flag, "Iceland" and "Europe" in bold text, and a summary: "Iceland, a Nordic island nation, is known for Vatnajökull glacier, geothermal wonders, and the historic Alþingi parliament, with Reykjavík as its vibrant capital." The textured flag design uses a blue, red, and white palette, optimized for readability and social media sharing.
+
+
+![Iceland Info Image]([attachment://iceland-info-image.jpg](https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/2_iceland_21_07_2025.jpg))  
