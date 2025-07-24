@@ -25,5 +25,7 @@ On a world map, locate Japan. Can you name one of its four main islands? (Hint: 
 **Generated Image**:  
 Below is an informative image for Japan in a **textured flag style** (rotated for Island Nations Week), featuring the country’s name, continent, flag, and a short summary.
 
-![Japan Info Image](attachment://japan-info-image.jpg)  
+![Japan Info Image](https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/1_japan_22_07_2025.jpg)  
 *Image Description*: A visually appealing graphic with a textured Japanese flag, "Japan" and "Asia" in bold text, and a summary: "Japan, an Asian archipelago, is famed for Mount Fuji, the serene tea ceremony, and vibrant culture, with Tokyo as its bustling capital." The textured flag design uses a red and white palette, optimized for readability and social media sharing.
+
+![Japan Info Image](https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/2_japan_22_07_2025.jpg)  
