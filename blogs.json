@@ -3,18 +3,18 @@
         "id": 1,
         "title": "Thailand Geography Spotlight",
         "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/1_thailand_20_07_2025.jpg",
-        "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/blog1.md"
+        "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/Thailand.md"
     },
     {
         "id": 2,
-        "title": "Understanding JSON: A Comprehensive Guide",
-        "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/json.jpeg",
-        "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/blog2.md"
+        "title": "Iceland Geography Spotlight",
+        "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/1_iceland_21_07_2025.jpg",
+        "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/Iceland.md"
     },
     {
         "id": 3,
-        "title": "The Complete Guide to Room Database in Android for Efficient Data Storage",
-        "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/room.jpeg",
-        "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/blog3.md"
+        "title": "Japan Geography Spotlight",
+        "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/1_japan_22_07_2025.jpeg",
+        "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/Japan.md"
     }
 ]
