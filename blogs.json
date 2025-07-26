@@ -17,4 +17,22 @@
         "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/1_japan_22_07_2025.jpg",
         "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/Japan.md"
     }
+    {
+        "id": 4,
+        "title": "New Zealand Geography Spotlight",
+        "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/2_new_zealand_23_07_2025.jpg",
+        "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/New_Zealand.md"
+    }
+    {
+        "id": 5,
+        "title": "Fiji Geography Spotlight",
+        "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/2_fiji.jpg",
+        "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/Fiji.md"
+    }
+    {
+        "id": 6,
+        "title": "Maldives Geography Spotlight",
+        "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/2_maldives.jpg",
+        "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/Maldives.md"
+    }
 ]

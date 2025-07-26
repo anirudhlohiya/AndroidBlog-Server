@@ -1,4 +1,4 @@
-# Daily Geography Spotlight - July 24, 2025
+# Fiji Geography Spotlight - July 24, 2025
 
 **Motivational Quote**:  
 "The world is full of wonders; explore one step at a time." – Unknown

@@ -1,4 +1,4 @@
-# Daily Geography Spotlight - July 23, 2025
+# New Zealand Geography Spotlight - July 23, 2025
 
 **Motivational Quote**:  
 "Every day is a new chance to explore the world." – Unknown
