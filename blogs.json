@@ -34,5 +34,23 @@
         "title": "Maldives Geography Spotlight",
         "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/2_maldives.jpg",
         "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/Maldives.md"
+    },
+    {
+        "id": 7,
+        "title": "Jamaica Geography Spotlight",
+        "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/2_jamaica.jpg",
+        "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/Jamaica.md"
+    },
+    {
+        "id": 8,
+        "title": "Bahamas Geography Spotlight",
+        "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/2_bahamas.jpg",
+        "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/Bahamas.md"
+    },
+    {
+        "id": 9,
+        "title": "Nepal Geography Spotlight",
+        "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/2_nepal.jpg",
+        "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/Nepal.md"
     }
 ]
