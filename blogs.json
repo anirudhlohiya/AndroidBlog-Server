@@ -52,5 +52,11 @@
         "title": "Nepal Geography Spotlight",
         "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/2_nepal.jpg",
         "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/Nepal.md"
+    },
+    {
+        "id": 10,
+        "title": "Bhutan Geography Spotlight",
+        "thumbnail_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/2_bhutan.jpg",
+        "content_url": "https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/blogs/Bhutan.md"
     }
 ]
