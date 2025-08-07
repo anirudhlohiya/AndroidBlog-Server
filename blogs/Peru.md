@@ -1,4 +1,3 @@
-```markdown
 # Daily Geography Spotlight - July 30, 2025
 
 **Motivational Quote**:  
