@@ -25,5 +25,5 @@ On a world map, locate Bhutan. Can you name one of its neighboring countries? (H
 **Generated Image**:  
 Below is an informative image for Bhutan in a **flat design style** (rotated for Mountainous Countries Week), featuring the country’s name, continent, flag, and a short summary.
 
-![Bhutan Info Image](https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/2_bhutan.jpg)  
+![Bhutan Info Image](https://raw.githubusercontent.com/anirudhlohiya/AndroidBlog-Server/refs/heads/main/images/1_bhutan.jpg)  
 *Image Description*: A sleek, modern graphic with a flat design Bhutanese flag, "Bhutan" and "Asia" in bold text, and a summary: "Bhutan, in Asia, is known for the serene Paro Valley, Gross National Happiness, and its dragon-adorned flag, with Thimphu as its capital." The flat design uses a yellow, orange, and white palette, optimized for readability and social media sharing.
